@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @chetanJambit
-- 👀 I’m interested in AWS, Typescript, Javascript, and developing on the backend.
-- 🌱 I’m currently learning Go.
-- 💞️ I’m looking to collaborate on new projects which use Go so I can learn while contributing.
+- 👀 I’m interested in `AWS`, `Typescript`, `Javascript`, and developing on the `backend`.
+- 🌱 I’m currently learning `Go`.
 - 📫 chetan.basuray@jambit.com
 
 <!---
